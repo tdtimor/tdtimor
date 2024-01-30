@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanzin Timor</h1>
 <h3 align="center">A passionate data scientist from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tdtimor&label=Profile%20views&color=0e75b6&style=flat" alt="tdtimor" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tdtimor" alt="tdtimor" /></a> </p>
-
 - 🌱 I’m currently learning **Computer Vision**
 
 - 📫 How to reach me **dugeytanzin29@gmail.com**
@@ -12,7 +8,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tdtimor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tdtimor" height="30" width="40" /></a>
-<a href="https://kaggle.com/tanzin timor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tanzin timor" height="30" width="40" /></a>
+<a href="https://kaggle.com/tanzintimor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tanzintimor" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tdtimor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tdtimor" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tdtimor&show_icons=true&locale=en&layout=compact" alt="tdtimor" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tdtimor&show_icons=true&locale=en" alt="tdtimor" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tdtimor&" alt="tdtimor" /></p>
