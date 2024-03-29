@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm Tanzin Timor, diving deep into data science at NIT Hamirpur. Passionate about uncovering insights from complex datasets, I'm equally drawn to the world of music, exploring its theory and composition. I believe in merging data science with creativity to drive innovation and meaningful change. When not immersed in numbers, you'll find me exploring technology, enjoying outdoor adventures, or lost in a good book.
+Hey there! I'm Tanzin Timor, delving into data science at NIT Hamirpur. As much as I'm passionate about uncovering insights from complex datasets, I'm equally drawn to the world of music. Exploring its theory and composition alongside my studies, I believe merging data science with creativity can drive powerful innovation. When I'm not immersed in numbers or melodies, I'm exploring tech, enjoying outdoor adventures, or catching up on some anime. Let's connect and explore the endless possibilities!
 
 
 ## 🌐 Socials:
